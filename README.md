@@ -2,7 +2,7 @@
 
 I’m Janaki Pillai, and here’s a little about me:  
 
-- 🔭 *I’m currently working on: A mini project to develop a **Laptop Recommendation System*.  
+- 🔭 *I’m currently working on: A mini project to develop a *Laptop Recommendation System*.  
 - 🌱 *I’m currently learning*: HTML, CSS, and JavaScript.  
 - 💬 *Ask me about*: Java, C, SQL, and PL/SQL.  
 - 📫 *How to reach me*: janakipillai968300@gmail.com  
