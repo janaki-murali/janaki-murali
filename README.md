@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋  
 
-<!--
-**janaki-murali/janaki-murali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Janaki Pillai, and here’s a little about me:  
 
-Here are some ideas to get you started:
+- 🔭 *I’m currently working on: A mini project to develop a **Laptop Recommendation System*.  
+- 🌱 *I’m currently learning*: HTML, CSS, and JavaScript.  
+- 💬 *Ask me about*: Java, C, SQL, and PL/SQL.  
+- 📫 *How to reach me*: janakipillai968300@gmail.com  
+- 😄 *Pronouns*: she/her  
+- ⚡ *Fun fact*: I love turning ideas into code!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janaki-pillai-6b0b2531a)  
+
+
+Feel free to check out my repositories or drop me a message. Let’s build something amazing together! 🚀
