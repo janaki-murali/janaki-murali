@@ -11,7 +11,7 @@ I’m Janaki Pillai, and here’s a little about me:
 
 ### Connect with me:  
 
-<a href="https://www.linkedin.com/in/janaki-pillai-6b0b2531a" target="_blank" style="text-decoration: none;">
+<a href="https://www.linkedin.com/in/janaki-pillai-6b0b2531a" target="_blank" style="text-decoration: none; margin-right: 15px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40">
 </a>
 
