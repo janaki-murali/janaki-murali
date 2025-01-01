@@ -11,8 +11,12 @@ I’m Janaki Pillai, and here’s a little about me:
 
 ### Connect with me:  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janaki-pillai-6b0b2531a)  
+<a href="https://www.linkedin.com/in/janaki-pillai-6b0b2531a" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="fill: #0A66C2;">
+</a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elusive_spirit_00/profilecard/?igsh=MXNqa3BjODV2eXF6dw==)
+<a href="https://www.instagram.com/elusive_spirit_00/profilecard/?igsh=MXNqa3BjODV2eXF6dw==" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="40" height="40" style="fill: #E4405F;">
+</a>
 
 Feel free to check out my repositories or drop me a message. Let’s build something amazing together! 🚀
