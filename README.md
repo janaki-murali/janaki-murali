@@ -12,11 +12,11 @@ I’m Janaki Pillai, and here’s a little about me:
 ### Connect with me:  
 
 <a href="https://www.linkedin.com/in/janaki-pillai-6b0b2531a" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="fill: #0A66C2;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40">
 </a>
 
 <a href="https://www.instagram.com/elusive_spirit_00/profilecard/?igsh=MXNqa3BjODV2eXF6dw==" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="40" height="40" style="fill: #E4405F;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40">
 </a>
 
 Feel free to check out my repositories or drop me a message. Let’s build something amazing together! 🚀
