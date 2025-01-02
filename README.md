@@ -41,13 +41,4 @@ Through E-Commerce*.
   </a>
 </p>
 
-<div style="display: flex; align-items: center; gap: 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HTML5_logo_and_wordmark.svg/320px-HTML5_logo_and_wordmark.svg.png" width="50" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/CSS3_logo.svg/320px-CSS3_logo.svg.png" width="50" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/JavaScript_logo_2.svg/320px-JavaScript_logo_2.svg.png" width="50" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Java_logo_icon_2019.svg/320px-Java_logo_icon_2019.svg.png" width="50" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/MySQL_logo.svg/320px-MySQL_logo.svg.png" width="50" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Programming_Language.svg/320px-C_Programming_Language.svg.png" width="50" height="50"/>
-</div>
-
 Feel free to check out my repositories or drop me a message. Let’s build something amazing together! 🚀
