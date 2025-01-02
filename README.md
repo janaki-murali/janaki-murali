@@ -23,12 +23,15 @@ Through E-Commerce*.
 
 ### Languages & Tools I Know
 
-![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HTML5_logo_and_wordmark.svg/320px-HTML5_logo_and_wordmark.svg.png)
-![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/CSS3_logo.svg/320px-CSS3_logo.svg.png)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/JavaScript_logo_2.svg/320px-JavaScript_logo_2.svg.png)
-![Java](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Java_logo_icon_2019.svg/320px-Java_logo_icon_2019.svg.png)
-![MySQL](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/MySQL_logo.svg/320px-MySQL_logo.svg.png)
-![C](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Programming_Language.svg/320px-C_Programming_Language.svg.png)
+## Languages & Tools I Know
+
+![HTML](https://img.icons8.com/ios/452/html-5.png)
+![CSS](https://img.icons8.com/ios/452/css3.png)
+![JavaScript](https://img.icons8.com/ios/452/javascript.png)
+![Java](https://img.icons8.com/ios/452/java.png)
+![MySQL](https://img.icons8.com/ios/452/mysql.png)
+![C](https://img.icons8.com/ios/452/c-programming.png)
+
 
 
 Feel free to check out my repositories or drop me a message. Let’s build something amazing together! 🚀
