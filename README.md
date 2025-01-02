@@ -23,14 +23,13 @@ Through E-Commerce*.
 
 ### Languages & Tools I Know
 
-## Languages & Tools I Know
+![HTML](https://img.icons8.com/ios/452/html-5.png =50x50)
+![CSS](https://img.icons8.com/ios/452/css3.png =50x50)
+![JavaScript](https://img.icons8.com/ios/452/javascript.png =50x50)
+![Java](https://img.icons8.com/ios/452/java.png =50x50)
+![MySQL](https://img.icons8.com/ios/452/mysql.png =50x50)
+![C](https://img.icons8.com/ios/452/c-programming.png =50x50)
 
-![HTML](https://img.icons8.com/ios/452/html-5.png)
-![CSS](https://img.icons8.com/ios/452/css3.png)
-![JavaScript](https://img.icons8.com/ios/452/javascript.png)
-![Java](https://img.icons8.com/ios/452/java.png)
-![MySQL](https://img.icons8.com/ios/452/mysql.png)
-![C](https://img.icons8.com/ios/452/c-programming.png)
 
 
 
