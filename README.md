@@ -23,6 +23,24 @@ Through E-Commerce*.
 
 ### Languages and Tools: 
 
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+</p>
+
 <div style="display: flex; align-items: center; gap: 15px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HTML5_logo_and_wordmark.svg/320px-HTML5_logo_and_wordmark.svg.png" width="50" height="50"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/CSS3_logo.svg/320px-CSS3_logo.svg.png" width="50" height="50"/>
