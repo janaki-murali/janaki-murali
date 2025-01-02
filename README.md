@@ -23,8 +23,6 @@ Through E-Commerce*.
 
 ### Languages & Tools I Know
 
-## Languages & Tools I Know
-
 ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HTML5_logo_and_wordmark.svg/320px-HTML5_logo_and_wordmark.svg.png)
 ![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/CSS3_logo.svg/320px-CSS3_logo.svg.png)
 ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/JavaScript_logo_2.svg/320px-JavaScript_logo_2.svg.png)
