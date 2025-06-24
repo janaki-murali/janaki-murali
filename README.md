@@ -4,7 +4,7 @@ I’m Janaki Pillai, and here’s a little about me:
 
 - 🔭 I’m currently working on: A mini project to develop *FarmEase: Connecting Farmers and Consumers
 Through E-Commerce*.  
-- 🌱 *I’m currently learning*: Sensor Fusion, Node.js, Firebase, MongoDB, MERN Stack  
+- 🌱 *I’m currently learning*: Sensor Fusion, Node.js, Express, Firebase, MongoDB, MERN Stack  
 - 💬 *Ask me about*: Flutter, HTML, CSS, JavaScript, Java, C, SQL, PL/SQL  
 - 📫 *How to reach me*: janakipillai968300@gmail.com  
 - 😄 *Pronouns*: she/her  
