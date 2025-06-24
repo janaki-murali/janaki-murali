@@ -4,7 +4,7 @@ I’m Janaki Pillai, and here’s a little about me:
 
 - 🔭 I’m currently working on: A mini project to develop *FarmEase: Connecting Farmers and Consumers
 Through E-Commerce*.  
-- 🌱 *I’m currently learning*: JavaScript.  
+- 🌱 *I’m currently learning*: Sensor Fusion, Node.js  
 - 💬 *Ask me about*: HTML, CSS, Java, C, SQL, and PL/SQL.  
 - 📫 *How to reach me*: janakipillai968300@gmail.com  
 - 😄 *Pronouns*: she/her  
@@ -40,8 +40,21 @@ Through E-Commerce*.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
 </p>
+
 
 Feel free to check out my repositories or drop me a message. Let’s build something amazing together! 🚀
