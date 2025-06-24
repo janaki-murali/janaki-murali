@@ -4,8 +4,8 @@ I’m Janaki Pillai, and here’s a little about me:
 
 - 🔭 I’m currently working on: A mini project to develop *FarmEase: Connecting Farmers and Consumers
 Through E-Commerce*.  
-- 🌱 *I’m currently learning*: Sensor Fusion, Node.js  
-- 💬 *Ask me about*: HTML, CSS, Java, C, SQL, and PL/SQL.  
+- 🌱 *I’m currently learning*: Sensor Fusion, Node.js, Firebase, MongoDB, MERN Stack  
+- 💬 *Ask me about*: Flutter, HTML, CSS, JavaScript, Java, C, SQL, PL/SQL  
 - 📫 *How to reach me*: janakipillai968300@gmail.com  
 - 😄 *Pronouns*: she/her  
 - ⚡ *Fun fact*: I love turning my literary ideas into code!  
@@ -54,7 +54,14 @@ Through E-Commerce*.
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
+  <a href="https://dart.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+  </a>
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+  </a>
 </p>
+
 
 
 Feel free to check out my repositories or drop me a message. Let’s build something amazing together! 🚀
